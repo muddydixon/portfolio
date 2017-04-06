@@ -95,7 +95,7 @@ Born in 1978/06/23 at Kobe, Japan.
 ### International Conferences
 1. Acquiring the Context-Independent Representation of the Word by Elman network with self-organizing map, Cognitive Science, 2003/07/13-17, Sydney, Australia
 1. Connectionist Approach to Stage-like Syntactic Development, The VIII-th International Conference Cognitive Modeling in Linguistics 2005/09/4-11, Varna
-1. mongo-hadoop で始める大規模ログ解析 ~低コストへの新たな道~, MongoTokyo, 2012, Tokyo
+1. mongo-hadoop で始める大規模ログ解析 \~低コストへの新たな道\~, MongoTokyo, 2012, Tokyo
 
 ### Authoring Events
 1. Data Vaisualizations
