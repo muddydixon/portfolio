@@ -21,6 +21,8 @@ Born in 1978/06/23 at Kobe, Japan.
 1. [rubygems](https://rubygems.org/profiles/muddydixon)
 1. [cpan](http://search.cpan.org/~muddydixn/)
 1. [npm](https://www.npmjs.com/~muddydixon)
+1. [speakerdeck](https://speakerdeck.com/muddydixon)
+1. [slideshare](https://slideshare.net/muddydixon)
 
 ## Works
 1. Tag based Contents / User / Advertising Matchin-Recommendation System
@@ -41,7 +43,7 @@ Born in 1978/06/23 at Kobe, Japan.
 1. NIFTY Cloud Script
     * Technologies: API Server (express) / docker / consul / dnsmasq / nginx
 1. IoT Design Center
-   * Client works (credential)
+    * Client works (credential)
     * Skill: Technical Consulting
 
 ## Educations
