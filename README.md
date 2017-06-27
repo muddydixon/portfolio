@@ -78,6 +78,10 @@ Born in 1978/06/23 at Kobe, Japan.
 * Engineering management
 * Technical consultant
 
+## Consultings
+* [ASAC (Aoyama Startup Acceleration Center](http://acceleration.tokyo.jp/) 2015-10 ~ 2017-06
+* [DMM OpenChallenge #1](https://akiba.dmm-make.com/form/openchallenge/)
+
 ## Skills
 * Event promototion
 * Engineering management
