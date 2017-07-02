@@ -83,7 +83,7 @@ Born in 1978/06/23 at Kobe, Japan.
 * [DMM OpenChallenge #1](https://akiba.dmm-make.com/form/openchallenge/)
 
 ## Skills
-* Event promototion
+* Event promotion
 * Engineering management
 * Patents
 * テコンドー (初段)
