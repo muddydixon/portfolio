@@ -25,7 +25,7 @@ Born in 1978/06/23 at Kobe, Japan.
 1. [slideshare](https://slideshare.net/muddydixon)
 
 ## Works
-1. Tag based Contents / User / Advertising Matchin-Recommendation System
+1. Tag based Contents / User / Advertising Matching-Recommendation System
     * Technologies: Contents Crawler / Lucene / HDFS / Distributed System / JavaScript Library
 1. AdSense User-Interface Optimization
     * Technologies: JavaScript Library / t-test verification / Experimental planning
@@ -34,8 +34,8 @@ Born in 1978/06/23 at Kobe, Japan.
 1. Large Log Analysing System
     * Technologies: mongodb / Hadoop / Fluentd / Web / Data Visualization / Frontend
     * Note:
-	    * Hadongo: Exec Engine that takes JavaScript map-reduce script strings as arguments
-		* Mondoop: Pass JavaScript map-reduce script strings written in mongo shell to Hadoop
+        * Hadongo: Exec Engine that takes JavaScript map-reduce script strings as arguments
+        * Mondoop: Pass JavaScript map-reduce script strings written in mongo shell to Hadoop
 1. NIFTY Cloud mobile backend
     * Technologies: mongodb / SDK for node.js (architecture), Object-C, Java, Unity (review)
 1. NIFTY Cloud MQTT
@@ -114,7 +114,7 @@ Born in 1978/06/23 at Kobe, Japan.
 1. 昨今のデータ可視化のニーズとその取組について, Gree Tech Talk #10, 2016/03/24
 1. 最近のニフティの PaaS: MQTT と Script, 第32回 PaaS 勉強会, 2016/03/18
 1. NIFTY IoT デザインセンタで案件に取り組んで気づいたこと, UX Sketch Vol.5, 2015/10/30
-1. DeepLeaning の前に知っておいたほうがいいこと ~目的・動作原理・構造~, YAPC::Asia, 2015/08/21
+1. DeepLeaning の前に知っておいたほうがいいこと \~目的・動作原理・構造\~, YAPC::Asia, 2015/08/21
 1. NIFTY Cloud mBaaS Operations, mBaaS Meetup, 2015/08/03
 1. IoTってなに？MQTTができること, July Tech Fest, 2015/07/26
 1. ニフティのIoTへの取り組みと、Iotを支えるMQTTサービスについて, IoT 縛りの勉強会, 2015/06/17
