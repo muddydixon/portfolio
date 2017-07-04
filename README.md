@@ -2,7 +2,7 @@
 
 ## Introduction
 ### Daichi Morifuji
-Born in 1978/06/23 at Kobe, Japan.
+Born in Kobe, Japan on 1978/06/23.
 
 ### Interestings
 * Natural Language Processings
@@ -43,7 +43,7 @@ Born in 1978/06/23 at Kobe, Japan.
 1. NIFTY Cloud Script
     * Technologies: API Server (express) / docker / consul / dnsmasq / nginx
 1. IoT Design Center
-    * Client works (credential)
+    * Client works (Confidential)
     * Skill: Technical Consulting
 
 ## Educations
@@ -101,7 +101,7 @@ Born in 1978/06/23 at Kobe, Japan.
 1. Connectionist Approach to Stage-like Syntactic Development, The VIII-th International Conference Cognitive Modeling in Linguistics 2005/09/4-11, Varna
 1. mongo-hadoop で始める大規模ログ解析 \~低コストへの新たな道\~, MongoTokyo, 2012, Tokyo
 
-### Authoring Events
+### Events
 1. Data Vaisualizations
 1. Engineer suppor CROSS
 1. Engineering manager meetup
